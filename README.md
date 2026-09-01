@@ -1,18 +1,18 @@
 # Hi, I'm Hafid 👋
 
-I'm an **AI & Mobile Engineer** at **AutomatedPros — Dubai (Remote)**, based in East Java, Indonesia. I hold 10+ years of experience shipping production mobile & backend systems.
+I'm an **AI & Mobile Engineer** at **AutomatedPros - Dubai (Remote)**, based in East Java, Indonesia. I hold 10+ years of experience shipping production mobile & backend systems.
 
-Today I work at the intersection of **AI agents, LLM workflows, and cross-platform apps** — turning real-world workflows into reliable, shipped products.
+Today I work at the intersection of **AI agents, LLM workflows, and cross-platform apps** - turning real-world workflows into reliable, shipped products.
 
-Previously: **The Gym Pod (SG)**, **EdgeProp (SG)**, **Raiz Invest (AU)**, **Robinsons (SG)** — 6 published apps, 9+ web products serving users at scale.
+Previously: **The Gym Pod (SG)**, **EdgeProp (SG)**, **Raiz Invest (AU)**, **Robinsons (SG)** - 6 published apps, 9+ web products serving users at scale.
 
 ## 🔭 What I'm working on
 
-- 🤖 **AI Engineering & LLM Agents:** prompt engineering, RAG, tool calling, MCP, and AI agents with OpenAI / Anthropic / Gemini APIs — powering ordering, delivery, and claims automation
+- 🤖 **AI Engineering & LLM Agents:** prompt engineering, RAG, tool calling, MCP, and AI agents with OpenAI / Anthropic / Gemini APIs - powering ordering, delivery, and claims automation
 - ⚡ **Agentic coding & automation:** LLM agents + Model Context Protocol (MCP) for restaurant POS, driver/fleet, and insurance claims workflows (Orderific, DeliveryDart, PropertyExpert)
-- 📱 **Mobile — Android / Flutter / React Native:** Kotlin · Jetpack Compose, Dart · Flutter (Riverpod/Bloc), TypeScript · React Native (Fabric, Reanimated) — offline-first, production parity across platforms
-- 🧩 **Full-stack & backend:** Node.js, Express, Golang, Ruby on Rails, PostgreSQL, MongoDB, REST & auth — APIs and web platforms that scale
-- 🚀 **Applied delivery:** GitHub Actions, Fastlane, Firebase, Docker — from code to store with reliable CI/CD and release cycles
+- 📱 **Mobile — Android / Flutter / React Native:** Kotlin · Jetpack Compose, Dart · Flutter (Riverpod/Bloc), TypeScript · React Native (Fabric, Reanimated) - offline-first, production parity across platforms
+- 🧩 **Full-stack & backend:** Node.js, Express, Golang, Ruby on Rails, PostgreSQL, MongoDB, REST & auth - APIs and web platforms that scale
+- 🚀 **Applied delivery:** GitHub Actions, Fastlane, Firebase, Docker - from code to store with reliable CI/CD and release cycles
 
 ## 🛠️ Tech I work with
 
@@ -32,7 +32,7 @@ Previously: **The Gym Pod (SG)**, **EdgeProp (SG)**, **Raiz Invest (AU)**, **Rob
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| 🍽️ **Orderific** | Restaurant platform — POS, QR ordering, AI upsells | React Native, Flutter, LLM/MCP | [orderific.com](https://orderific.com/) |
+| 🍽️ **Orderific** | Restaurant platform - POS, QR ordering, AI upsells | React Native, Flutter, LLM/MCP | [orderific.com](https://orderific.com/) |
 | 🚚 **DeliveryDart** | Driver & fleet earning platform | React Native, Flutter, REST | [deliverydart.com](https://deliverydart.com/) |
 | 🏠 **PropertyExpert** | AI claims management (FNOL, AiCheck, fraud) | AI Agents, LLM, Document AI | [propertyexpert.com](https://propertyexpert.com/en/) |
 | 💪 **The Gym Pod** | On-demand private gym pods (SG, ID, US) | Kotlin, Flutter, React Native | [thegympod.com](https://thegympod.com/) |
@@ -41,9 +41,9 @@ Previously: **The Gym Pod (SG)**, **EdgeProp (SG)**, **Raiz Invest (AU)**, **Rob
 
 > 🔍 Full case studies & visuals → [hafidrf.com](https://hafidrf.com) · [Portfolio](https://hafidrf.com/portfolio)
 
-## 📱 Published Apps — Proof in Store
+## 📱 Published Apps - Proof in Store
 
-10+ listings on Google Play & App Store — all with verified store links.
+10+ listings on Google Play & App Store - all with verified store links.
 
 | Brand | Google Play | App Store |
 |---|---|---|
@@ -53,13 +53,13 @@ Previously: **The Gym Pod (SG)**, **EdgeProp (SG)**, **Raiz Invest (AU)**, **Rob
 | 🍩 **J-Co** | [▶️ Android](https://play.google.com/store/apps/details?id=com.jcodonuts.app) | [🍎 iOS](https://apps.apple.com/id/app/j-co/id1589730426) |
 | 🛍️ **Robinsons** | [▶️ Android](https://play.google.com/store/apps/details?id=com.robinson.daily) | [🍎 iOS](https://apps.apple.com/us/app/robinson-app/id529863664) |
 
-✨ Additional variants — The Gym Pod PTX, Neo Golf, EdgeProp Analytics — also live. See full list → [Portfolio — Published Apps](https://hafidrf.com/portfolio)
+✨ Additional variants - The Gym Pod PTX, Neo Golf, EdgeProp Analytics - also live. See full list → [Portfolio - Published Apps](https://hafidrf.com/portfolio)
 
 ## 📫 Get in touch
 
-- 🌐 [hafidrf.com](https://hafidrf.com) — Portfolio & case studies
-- 💼 [LinkedIn — hafid-rizqifaluthi](https://www.linkedin.com/in/hafid-rizqifaluthi/)
+- 🌐 [hafidrf.com](https://hafidrf.com) - Portfolio & case studies
+- 💼 [LinkedIn - hafid-rizqifaluthi](https://www.linkedin.com/in/hafid-rizqifaluthi/)
 - ✉️ hrizqifaluthi@gmail.com
 - 📍 East Java, Indonesia · 🌏 Remote-First
 
-<sub>Style inspired by clean, expert profiles like <a href="https://github.com/MadsLorentzen">MadsLorentzen</a> — minimal, no hype, work speaks.</sub>
+<sub>Style inspired by clean, expert profiles like <a href="https://github.com/MadsLorentzen">MadsLorentzen</a> - minimal, no hype, work speaks.</sub>
