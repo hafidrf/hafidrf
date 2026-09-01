@@ -10,7 +10,7 @@ Previously: **The Gym Pod (SG)**, **EdgeProp (SG)**, **Raiz Invest (AU)**, **Rob
 
 - 🤖 **AI Engineering & LLM Agents:** prompt engineering, RAG, tool calling, MCP, and AI agents with OpenAI / Anthropic / Gemini APIs - powering ordering, delivery, and claims automation
 - ⚡ **Agentic coding & automation:** LLM agents + Model Context Protocol (MCP) for restaurant POS, driver/fleet, and insurance claims workflows (Orderific, DeliveryDart, PropertyExpert)
-- 📱 **Mobile — Android / Flutter / React Native:** Kotlin · Jetpack Compose, Dart · Flutter (Riverpod/Bloc), TypeScript · React Native (Fabric, Reanimated) - offline-first, production parity across platforms
+- 📱 **Mobile - Android / Flutter / React Native:** Kotlin · Jetpack Compose, Dart · Flutter (Riverpod/Bloc), TypeScript · React Native (Fabric, Reanimated) - offline-first, production parity across platforms
 - 🧩 **Full-stack & backend:** Node.js, Express, Golang, Ruby on Rails, PostgreSQL, MongoDB, REST & auth - APIs and web platforms that scale
 - 🚀 **Applied delivery:** GitHub Actions, Fastlane, Firebase, Docker - from code to store with reliable CI/CD and release cycles
 
@@ -61,5 +61,3 @@ Previously: **The Gym Pod (SG)**, **EdgeProp (SG)**, **Raiz Invest (AU)**, **Rob
 - 💼 [LinkedIn - hafid-rizqifaluthi](https://www.linkedin.com/in/hafid-rizqifaluthi/)
 - ✉️ hrizqifaluthi@gmail.com
 - 📍 East Java, Indonesia · 🌏 Remote-First
-
-<sub>Style inspired by clean, expert profiles like <a href="https://github.com/MadsLorentzen">MadsLorentzen</a> - minimal, no hype, work speaks.</sub>
